@@ -29,3 +29,8 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+Dafne V Perez C
+- Los videojuegos
+- Pasear perros
+- La comida asiatica
